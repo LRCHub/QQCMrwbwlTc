@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お願いドクター！",
+  "base_artist": "Chenomio",
+  "createdAt": "2026-02-14T13:56:08.666062Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お願いドクター!",
+      "artist": "Chenomio",
+      "has_synced": false,
+      "path": "select/pl_01_お願いドクター!_Chenomio.txt"
+    }
+  ]
+}
